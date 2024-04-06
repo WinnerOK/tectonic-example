@@ -17,6 +17,6 @@ tectonic -X build
 
 ## Auto-build project
 ```
-tectonic -x watch
+tectonic -X watch
 ```
 rebuilds pdf upon _any_ file change in the directory
